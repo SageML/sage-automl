@@ -33,6 +33,17 @@ SAGE is an automated machine learning pipeline that democratizes ML by providing
 4. Select the Model Type for the dataset (Regression/Classification/Clustering/NLP)
 5. Click "Start Training" to begin the automated ML pipeline
 
+## Output
+
+SAGE saves two files for each analysis:
+- `model.joblib`: Serialized machine learning model that can be loaded for predictions
+- `model_specs.json`: Comprehensive model specifications including:
+  - Model type and parameters
+  - Performance metrics
+  - Preprocessing steps
+  - Feature importance
+  - Creation date and dataset information
+
 ## 🎯 Use Cases
 
 - **Research Analysis**: Process research papers and extract meaningful insights
