@@ -1,8 +1,8 @@
-# SAGE: Democratizing Machine Learning
+# SageML: Democratizing Machine Learning
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Release](https://img.shields.io/badge/release-v1.0.0-green.svg)
 
-SAGE is an automated machine learning pipeline that democratizes ML by providing a unified, end-to-end solution for data processing, analysis, and model building. It eliminates the complexity of traditional ML workflows, making machine learning accessible to users without advanced technical expertise.
+SageML is an automated machine learning pipeline that democratizes ML by providing a unified, end-to-end solution for data processing, analysis, and model building. It eliminates the complexity of traditional ML workflows, making machine learning accessible to users without advanced technical expertise.
 
 ## 🚀 Features
 
