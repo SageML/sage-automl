@@ -21,7 +21,7 @@ SAGE is an automated machine learning pipeline that democratizes ML by providing
 
 ## 🔧 Installation
 
-1. Download the latest release from the [Releases](https://github.com/PM4305/SageML/releases) page
+1. Download the latest release from the [Releases](https://github.com/SageML/sage-automl/releases) page
 2. Extract the ZIP file to your desired location
 3. Run `SageML.exe` from the extracted folder
 
@@ -66,7 +66,7 @@ While the source code is private, we welcome:
 - Documentation improvements
 - Use case suggestions
 
-Please use the [Issues](https://github.com/PM4305/SageML/issues) section for any contributions.
+Please use the [Issues](https://github.com/SageML/sage-automl/issues) section for any contributions.
 
 ## 📜 License
 
