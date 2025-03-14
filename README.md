@@ -72,9 +72,13 @@ Please use the [Issues](https://github.com/SageML/sage-automl/issues) section fo
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📩 Contact  
 
-## 📬 Contact
+For support or queries:  
 
-For support or queries:
-- Create an issue on GitHub
-- Connect with us on [LinkedIn](https://www.linkedin.com/in/prakhar-madnani)
+- Create an issue on [GitHub](https://github.com/SageML/sage-automl/issues)  
+- Connect with us on LinkedIn:  
+  - [Devansh Kukreja](https://www.linkedin.com/in/devansh-kukreja/)  
+  - [Prakhar Madnani](https://www.linkedin.com/in/prakhar-madnani) 
+- Follow on Twitter: [Devansh Kukreja](https://x.com/itssdevk)
+
